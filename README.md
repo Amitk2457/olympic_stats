@@ -15,6 +15,6 @@
 - https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 
 ## Deployment
-.......
+- Visit the [live app](https://olympic-data.onrender.com/) to explore Olympic statistics.
 
 
